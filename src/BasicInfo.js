@@ -6,7 +6,7 @@ class BasicInfo extends Component {
     return (
       <div className="BasicInfo">
         <div>Quan Vuong</div><br/>
-        <div>Email: <a href="mailto:qvuong@eng.ucsd.edu">qvuong@eng.ucsd.edu</a></div><br/>
+        <div><a href="mailto:qvuong@eng.ucsd.edu">qvuong@eng.ucsd.edu</a></div><br/>
         <div>Incoming PhD Student</div><br/>
         <div>UC San Diego AI Group</div><br/>
         <div>Advisor: <a href="http://nakashole.com"> Professor Ndapa Nakashole </a></div><br/>
