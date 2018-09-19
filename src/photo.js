@@ -6,7 +6,7 @@ class Photo extends Component {
   render() {
     return (
       <div className="Photo">
-        <img src={quanPhoto} width='200'/>
+        <img src={quanPhoto} width='200' alt=''/>
       </div>
     );
   }
