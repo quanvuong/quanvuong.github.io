@@ -4,7 +4,7 @@ import './App.css';
 import Photo from './photo.js';
 import BasicInfo from './BasicInfo.js';
 import Summary from './Summary.js';
-import Paper from './Paper.js';
+import Papers from './Papers.js';
 
 class App extends Component {
   render() {
@@ -16,7 +16,7 @@ class App extends Component {
         </div>
         <div className="Body">
           <Summary/>
-          <Paper/>
+          <Papers/>
         </div>
       </div>
     );
