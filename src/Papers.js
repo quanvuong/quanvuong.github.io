@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Paper from './Paper.js';
 
 class Papers extends Component {
   render() {
