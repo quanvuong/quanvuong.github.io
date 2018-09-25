@@ -37,8 +37,8 @@ class Papers extends Component {
           <li>
             <div className="OnePaper">
               <div><a href={img_complexity[1]}>{img_complexity[0]}</a></div>
-              <div>{entropy[2]}</div>
-              <div>{entropy[3]}</div>
+              <div>{img_complexity[2]}</div>
+              <div>{img_complexity[3]}</div>
             </div>
           </li>
 
