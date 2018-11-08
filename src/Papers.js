@@ -7,24 +7,20 @@ class Papers extends Component {
 
     let img_complexity = ["Measuring the complexity of two-dimensional binary patterns — Sub-symmetries versus Papentin complexity.", "https://ieeexplore.ieee.org/document/7153235/", "IAPR International Conference on Machine Vision Applications 2015", "Godfried Toussaint, Noris Onea, Quan Vuong"]
 
-    let spu = ["Supervised Policy Update", "https://arxiv.org/abs/1805.11706", "", "Quan Vuong, Yiming Zhang, Keith W. Ross"]
-
-    let papers = [spu]
+    let spu = ["Supervised Policy Update", "https://arxiv.org/abs/1805.11706", "Quan Vuong, Yiming Zhang, Keith W. Ross"]
 
     return (
       <div className="Papers">
         <div className="PaperHeader">Papers</div>
 
-        <ul>
-          {papers.map(p => {
-            return <li>
-              <div className="OnePaper">
-                <a href={p[1]}>{p[0]}</a>
-                <div>{p[2]}</div>
-                <div>{p[3]}</div>
-              </div>
-            </li>
-          })}
+        <ol>
+          <li>
+            <div className="OnePaper">
+              <div><a href={spu[1]}>{spu[0]}</a></div>
+              <div>{spu[2]}</div>
+              <div><a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a></div>
+            </div>
+          </li>
 
           <li>
             <div className="OnePaper">
@@ -42,7 +38,7 @@ class Papers extends Component {
             </div>
           </li>
 
-        </ul>
+        </ol>
       </div>
     );
   }
