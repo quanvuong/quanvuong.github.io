@@ -13,7 +13,9 @@ class Papers extends Component {
       <div className="Papers">
         <div className="PaperHeader">Papers</div>
 
-        <ol>
+        <div>
+          <div className="YearHeader">2018</div>
+          <ol>
           <li>
             <div className="OnePaper">
               <div><a href={spu[1]}>{spu[0]}</a></div>
@@ -30,16 +32,21 @@ class Papers extends Component {
               <div>{entropy[3]}</div>
             </div>
           </li>
+          </ol>
+        </div>
 
-          <li>
-            <div className="OnePaper">
-              <div><a href={img_complexity[1]}>{img_complexity[0]}</a></div>
-              <div>{img_complexity[2]}</div>
-              <div>{img_complexity[3]}</div>
-            </div>
-          </li>
-
-        </ol>
+        <div>
+          <div className="YearHeader">2015</div>
+          <ol>
+            <li>
+              <div className="OnePaper">
+                <div><a href={img_complexity[1]}>{img_complexity[0]}</a></div>
+                <div>{img_complexity[2]}</div>
+                <div>{img_complexity[3]}</div>
+              </div>
+            </li>
+          </ol>
+      </div>
       </div>
     );
   }

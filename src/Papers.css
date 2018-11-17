@@ -13,5 +13,12 @@
 .PaperHeader {
     text-align: left;
     margin-left: 2em;
+    margin-bottom: 2em;
+    font-weight: bold;
+}
+
+.YearHeader {
+    text-align: left;
+    margin-left: 2em;
     font-weight: bold;
 }
