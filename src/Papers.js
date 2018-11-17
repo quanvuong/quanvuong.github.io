@@ -17,7 +17,7 @@ class Papers extends Component {
           <li>
             <div className="OnePaper">
               <div><a href={spu[1]}>{spu[0]}</a></div>
-              <div>NIPS 2018 Deep Reinforcement Learning workshop</div>
+              <div>NeurIPS 2018 Deep Reinforcement Learning workshop</div>
               <div>{spu[2]}</div>
               <div><a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a></div>
             </div>
