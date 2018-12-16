@@ -20,7 +20,7 @@ class Papers extends Component {
           <li>
             <div className="OnePaper">
               <div><strong>{spu[0]}</strong></div>
-              <div>NeurIPS 2018 Deep Reinforcement Learning Workshop. <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a>
+              <div>NeurIPS 2018 Deep Reinforcement Learning Workshop. <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
             </div>
               <div>{spu[2]}</div>
             </div>
