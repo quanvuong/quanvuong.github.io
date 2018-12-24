@@ -7,7 +7,7 @@ class Papers extends Component {
 
     let img_complexity = ["Measuring the complexity of two-dimensional binary patterns — Sub-symmetries versus Papentin complexity.", "https://ieeexplore.ieee.org/document/7153235/", "IAPR International Conference on Machine Vision Applications 2015", "G. Toussaint, N. Onea, Q. Vuong"]
 
-    let spu = ["Supervised Policy Update.", "https://arxiv.org/abs/1805.11706", "Q. Vuong, Y. Zhang, K.W. Ross"]
+    let spu = ["Supervised Policy Update for Deep Reinforcement Learning.", "https://arxiv.org/abs/1805.11706", "Q. Vuong, Y. Zhang, K.W. Ross"]
 
     return (
       <div className="Papers">
