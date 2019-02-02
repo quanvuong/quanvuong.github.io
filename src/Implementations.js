@@ -6,7 +6,7 @@ class Implementations extends Component {
 
     return (
       <div className="Implementations">
-        <div className="ImplementaionsHeader">Implementation of other people's papers</div>
+        <div className="ImplementaionsHeader">Material related to other people's papers</div>
 
         <ol>
 
