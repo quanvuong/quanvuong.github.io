@@ -18,8 +18,7 @@ class Implementations extends Component {
 
           <li>
             <div className="OnePaper">
-              <div>Pytorch implementation of "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models" by Chua et al.</div>
-              <div> <a href="https://github.com/quanvuong/handful-of-trials-pytorch">Code</a> </div>
+              <div> <a href="https://github.com/quanvuong/open_sourced_implementations">Open-sourced Implementations</a> </div>
             </div>
           </li>
 
