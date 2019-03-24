@@ -10,6 +10,12 @@ class Implementations extends Component {
 
         <ol>
 
+        <li>
+          <div className="OnePaper">
+            <div> <a href="https://github.com/quanvuong/paper_summaries">Paper Summaries</a> </div>
+          </div>
+        </li>
+
           <li>
             <div className="OnePaper">
               <div>Pytorch implementation of "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models" by Chua et al.</div>
