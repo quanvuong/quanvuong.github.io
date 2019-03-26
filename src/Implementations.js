@@ -24,8 +24,7 @@ class Implementations extends Component {
 
           <li>
             <div className="OnePaper">
-              <div>Proofs for "Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees" by Luo et al.</div>
-              <div>To understand this paper, I provided detailed proofs of its theoretical results. <a href="https://drive.google.com/file/d/1KftRUTW2jP8XIB3cwSBgh7xvveDjKDcn/view?usp=sharing">Proofs</a> </div>
+              <div><a href="https://github.com/quanvuong/Advanced-Basic-Theoretical-Reinforcement-Learning-Result">Advanced Basic Theoretical Reinforcement Learning Result</a> </div>
             </div>
           </li>
 
