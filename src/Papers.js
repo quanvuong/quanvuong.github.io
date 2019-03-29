@@ -14,6 +14,20 @@ class Papers extends Component {
         <div className="PaperHeader">Papers</div>
 
         <div>
+          <div className="YearHeader">2019</div>
+            <ol>
+              <li>
+                <div className="OnePaper">
+                  <div><strong>How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?</strong></div>
+                  <div>Preprint. <a href="https://arxiv.org/abs/1903.11774">PDF</a></div>
+                  <div> <strong>Q. Vuong</strong>,  S. Vikram, H. Su, S. Gao, H. Christensen </div>
+                </div>
+              </li>
+
+            </ol>
+
+
+
           <div className="YearHeader">2018</div>
 
           <ol>
