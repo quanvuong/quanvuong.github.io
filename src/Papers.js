@@ -19,7 +19,7 @@ class Papers extends Component {
               <li>
                 <div className="OnePaper">
                   <div><strong>How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?</strong></div>
-                  <div>Preprint. <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
+                  <div>Learning Legged Locomotion Workshop at IEEE International Conference on Robotics and Automation 2019 (ICRA). <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
                   <div> <strong>Q. Vuong</strong>,  S. Vikram, H. Su, S. Gao, H. Christensen </div>
                 </div>
               </li>
