@@ -56,7 +56,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div><strong>{img_complexity[0]}</strong></div>
-                <div>{img_complexity[2]} <a href={img_complexity[1]}>PDF</a> </div>
+                <div>{img_complexity[2]}. <a href={img_complexity[1]}>PDF</a> </div>
                 <div>G. Toussaint, N. Onea, <strong>Q. Vuong</strong> </div>
               </div>
             </li>
