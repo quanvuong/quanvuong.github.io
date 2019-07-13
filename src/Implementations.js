@@ -28,13 +28,15 @@ class Implementations extends Component {
             </div>
           </li>
 
+          {/*
+
           <li>
           <div className="OnePaper">
             <div>I often found myself forgetting knowledge. I thus created self-test. I do them at fixed interval to keep basic results in my brain.</div>
             <div><a href="https://drive.google.com/open?id=1xg4gVeZNUsOijDgens9VWjOwMAVCPlNP">Self-tests </a> (Always In Progress)</div>
           </div>
         </li>
-
+          */}
         </ol>
 
       </div>
