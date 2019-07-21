@@ -22,16 +22,16 @@ class Implementations extends Component {
             </div>
           </li>
 
-                    {/*
+                    {
 
           <li>
             <div className="OnePaper">
               <div><a href="https://github.com/quanvuong/Advanced-Basic-Theoretical-Reinforcement-Learning-Result">Advanced Basic Theoretical Reinforcement Learning Result</a> </div>
             </div>
           </li>
-          */}
+          }
 
-          {/*
+          {
 
           <li>
           <div className="OnePaper">
@@ -39,7 +39,7 @@ class Implementations extends Component {
             <div><a href="https://drive.google.com/open?id=1xg4gVeZNUsOijDgens9VWjOwMAVCPlNP">Self-tests </a> (Always In Progress)</div>
           </div>
         </li>
-          */}
+          }
         </ol>
 
       </div>
