@@ -15,38 +15,38 @@ class Papers extends Component {
 
         <div>
           <div className="YearHeader">2019</div>
-            <ol>
-              <li>
-                <div className="OnePaper">
-                  <div><strong>How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?</strong></div>
-                  <div>Learning Legged Locomotion Workshop at IEEE International Conference on Robotics and Automation 2019 (ICRA). <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
-                  <div> <strong>Q. Vuong</strong>,  S. Vikram, H. Su, S. Gao, H. Christensen </div>
-                </div>
-              </li>
+          <ol>
+            <li>
+              <div className="OnePaper">
+                <div><strong>How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?</strong></div>
+                <div>IEEE International Conference on Robotics and Automation 2019 (ICRA) Learning Legged Locomotion Workshop. <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
+                <div> <strong>Q. Vuong</strong>,  S. Vikram, H. Su, S. Gao, H. Christensen </div>
+              </div>
+            </li>
 
-            </ol>
+          </ol>
 
 
 
           <div className="YearHeader">2018</div>
 
           <ol>
-          <li>
-            <div className="OnePaper">
-              <div><strong>{spu[0]}</strong></div>
-              <div>International Conference on Learning Representations 2019 (ICLR). <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
-            </div>
-              <div> <strong>Q. Vuong</strong>,  Y. Zhang, K.W. Ross </div>
-            </div>
-          </li>
+            <li>
+              <div className="OnePaper">
+                <div><strong>{spu[0]}</strong></div>
+                <div>International Conference on Learning Representations 2019 (ICLR). <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
+                </div>
+                <div> <strong>Q. Vuong</strong>,  Y. Zhang, K.W. Ross </div>
+              </div>
+            </li>
 
-          <li>
-            <div className="OnePaper">
-              <div><strong>{entropy[0]}</strong></div>
-              <div>International Conference on Learning Representations 2018 Workshop (ICLR). <a href="https://arxiv.org/abs/1806.00589">Full PDF</a> <a href="https://openreview.net/pdf?id=rJc8sN1vG">Short PDF</a></div>
-              <div>Y. Zhang, <strong>Q. Vuong</strong>, K. Song, X.Y. Gong, K.W. Ross</div>
-            </div>
-          </li>
+            <li>
+              <div className="OnePaper">
+                <div><strong>{entropy[0]}</strong></div>
+                <div>International Conference on Learning Representations 2018 Workshop (ICLR). <a href="https://arxiv.org/abs/1806.00589">Full PDF</a> <a href="https://openreview.net/pdf?id=rJc8sN1vG">Short PDF</a></div>
+                <div>Y. Zhang, <strong>Q. Vuong</strong>, K. Song, X.Y. Gong, K.W. Ross</div>
+              </div>
+            </li>
           </ol>
         </div>
 
@@ -61,7 +61,7 @@ class Papers extends Component {
               </div>
             </li>
           </ol>
-      </div>
+        </div>
       </div>
     );
   }
