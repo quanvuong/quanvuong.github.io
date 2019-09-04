@@ -18,6 +18,14 @@ class Papers extends Component {
           <ol>
             <li>
               <div className="OnePaper">
+                <div><strong>Better Exploration with Optimistic Actor Critic</strong></div>
+                <div>Neural Information Processing Systems 2019 (neurIPS). </div>
+                <div> K. Ciosek, <strong>Q. Vuong</strong>, R. Loftin, K. Hofmann </div>
+              </div>
+            </li>
+
+            <li>
+              <div className="OnePaper">
                 <div><strong>How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?</strong></div>
                 <div>IEEE International Conference on Robotics and Automation 2019 (ICRA) Learning Legged Locomotion Workshop. <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
                 <div> <strong>Q. Vuong</strong>,  S. Vikram, H. Su, S. Gao, H. Christensen </div>
