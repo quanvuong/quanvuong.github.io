@@ -19,7 +19,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div><strong>Better Exploration with Optimistic Actor Critic</strong></div>
-                <div>Neural Information Processing Systems 2019 (neurIPS). </div>
+                <div>Neural Information Processing Systems <strong>(neurIPS)</strong> 2019. </div>
                 <div> K. Ciosek, <strong>Q. Vuong</strong>, R. Loftin, K. Hofmann </div>
               </div>
             </li>
@@ -27,7 +27,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div><strong>How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?</strong></div>
-                <div>IEEE International Conference on Robotics and Automation 2019 (ICRA) Learning Legged Locomotion Workshop. <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
+                <div>IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong> 2019 Learning Legged Locomotion Workshop. <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
                 <div> <strong>Q. Vuong</strong>,  S. Vikram, H. Su, S. Gao, H. Christensen </div>
               </div>
             </li>
@@ -42,7 +42,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div><strong>{spu[0]}</strong></div>
-                <div>International Conference on Learning Representations 2019 (ICLR). <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
+                <div>International Conference on Learning Representations <strong>(ICLR)</strong> 2019. <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
                 </div>
                 <div> <strong>Q. Vuong</strong>,  Y. Zhang, K.W. Ross </div>
               </div>
@@ -51,7 +51,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div><strong>{entropy[0]}</strong></div>
-                <div>International Conference on Learning Representations 2018 Workshop (ICLR). <a href="https://arxiv.org/abs/1806.00589">Full PDF</a> <a href="https://openreview.net/pdf?id=rJc8sN1vG">Short PDF</a></div>
+                <div>International Conference on Learning Representations <strong>(ICLR)</strong> 2018 Workshop. <a href="https://arxiv.org/abs/1806.00589">Full PDF</a> <a href="https://openreview.net/pdf?id=rJc8sN1vG">Short PDF</a></div>
                 <div>Y. Zhang, <strong>Q. Vuong</strong>, K. Song, X.Y. Gong, K.W. Ross</div>
               </div>
             </li>
