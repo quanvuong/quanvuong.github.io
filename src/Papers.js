@@ -20,6 +20,7 @@ class Papers extends Component {
               <div className="OnePaper">
                 <div><strong>Better Exploration with Optimistic Actor Critic</strong></div>
                 <div>Neural Information Processing Systems <strong>(neurIPS)</strong> 2019. </div>
+                <div style={{ color: 'red' }}>Spotlight Presentation (2.4% acceptance rate)</div>
                 <div> K. Ciosek, <strong>Q. Vuong</strong>, R. Loftin, K. Hofmann </div>
               </div>
             </li>
