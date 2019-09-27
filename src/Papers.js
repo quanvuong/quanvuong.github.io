@@ -33,6 +33,14 @@ class Papers extends Component {
               </div>
             </li>
 
+            <li>
+              <div className="OnePaper">
+                <div><strong>Pre-training as Batch Meta Reinforcement Learning with tiMe</strong></div>
+                <div>Preprint. <a href="https://arxiv.org/abs/1909.11373">PDF</a> </div>
+                <div> <strong>Q. Vuong</strong>, S. Liu, M. Liu, K. Ciosek, H. Su, H. Christensen </div>
+              </div>
+            </li>
+
           </ol>
 
 
