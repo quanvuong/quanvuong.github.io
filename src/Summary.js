@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
 import './Summary.css';
 
+// and <a href="https://scungao.github.io">Prof. Sean Gao</a>.
+
 class Summary extends Component {
   render() {
     return (
       <div className="Summary">
         <div className="SummaryOneP">Hello! I am Quan Vuong.</div>
 
-        <div className="SummaryOneP">I am a PhD student at the University of California San Diego. My advisor is <a href="http://www.hichristensen.net">Prof. Henrik I. Christensen</a>. I also work closely with <a href="http://cseweb.ucsd.edu/~haosu/">Prof. Hao Su</a> and <a href="https://scungao.github.io">Prof. Sean Gao</a>. </div>
+        <div className="SummaryOneP">I am a PhD student at the University of California San Diego. My advisor is <a href="http://www.hichristensen.net">Prof. Henrik I. Christensen</a>. I also work closely with <a href="http://cseweb.ucsd.edu/~haosu/">Prof. Hao Su</a>  </div>
 
         <div className="SummaryOneP">In 2019, I interned at Microsoft Research Cambridge (UK) with <a href="http://www.ciosek.net">Dr. Kamil Ciosek</a>.</div>
 
