@@ -44,7 +44,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>Towards Simplicity in Deep Reinforcement Learning: Streamlined Off-Policy Learning</div>
-                <div>Preprint. </div>
+                <div>Preprint. <a href="https://arxiv.org/abs/1910.02208">PDF</a> </div>
                 <div> Wang, Wu, <strong>Vuong</strong> , Ross </div>
               </div>
             </li>
