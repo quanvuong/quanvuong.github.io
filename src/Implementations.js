@@ -24,6 +24,12 @@ class Implementations extends Component {
 
           <li>
             <div className="OnePaper">
+              <div> <a href="https://github.com/quanvuong/On_doing_research">Musings on research</a> </div>
+            </div>
+          </li>
+
+          <li>
+            <div className="OnePaper">
               <div><a href="https://github.com/quanvuong/Advanced-Basic-Theoretical-Reinforcement-Learning-Result">Advanced Basic Theoretical Reinforcement Learning Result</a> </div>
             </div>
           </li>
