@@ -19,7 +19,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>Better Exploration with Optimistic Actor Critic</div>
-                <div>neurIPS. <a href="https://arxiv.org/abs/1910.12807">PDF</a> <a href="https://drive.google.com/open?id=1jx9oQQnRrerUoxy8WxH2fm1WNdZD3L9D">Slide</a> <a href="https://drive.google.com/open?id=1C-76VJ3vnf7O1y1ANgrHLZq__1tzvxWW"> Poster </a> </div>
+                <div>neurIPS. <a href="https://arxiv.org/abs/1910.12807">PDF</a> <a href="https://drive.google.com/open?id=1jx9oQQnRrerUoxy8WxH2fm1WNdZD3L9D">Slide</a> <a href="https://drive.google.com/open?id=1C-76VJ3vnf7O1y1ANgrHLZq__1tzvxWW"> Poster </a> <a href="https://github.com/microsoft/oac-explore"> Code</a> </div>
                 <div style={{ color: 'red' }}>Spotlight Presentation (2.4% acceptance rate)</div>
                 <div> Ciosek, <strong>Vuong</strong>, Loftin, Hofmann </div>
               </div>
