@@ -14,6 +14,19 @@ class Papers extends Component {
         <div className="PaperHeader">Papers</div>
 
         <div>
+          <div className="YearHeader">2020</div>
+          <ol>
+            <li>
+              <div className="OnePaper">
+                <div>First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning</div>
+                <div>Preprint. <a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
+                <div> Zhang, <strong>Vuong</strong>, Ross </div>
+              </div>
+            </li>
+          </ol>
+        </div>
+
+        <div>
           <div className="YearHeader">2019</div>
           <ol>
             <li>
