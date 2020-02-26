@@ -7,6 +7,7 @@ import Summary from './Summary.js';
 import Papers from './Papers.js';
 import Implementaions from './Implementations.js';
 import Media from './Media.js';
+import Award from './Award.js';
 
 class App extends Component {
   render() {
@@ -19,6 +20,7 @@ class App extends Component {
         <div className="Body">
           <Summary />
           <Papers />
+          <Award />
           <Media />
           <Implementaions />
         </div>
