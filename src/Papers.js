@@ -14,21 +14,15 @@ class Papers extends Component {
         <div className="PaperHeader">Papers</div>
 
         <div>
-          <div className="YearHeader">2020</div>
           <ol>
             <li>
               <div className="OnePaper">
-                <div>First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning</div>
-                <div>Preprint. <a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
-                <div> Zhang, <strong>Vuong</strong>, Ross </div>
+                <div>Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling</div>
+                <div>ICML 2020 <a href="https://arxiv.org/abs/1910.02208">PDF</a> </div>
+                <div> Wang, Wu, <strong>Vuong</strong>, Ross </div>
               </div>
             </li>
-          </ol>
-        </div>
 
-        <div>
-          <div className="YearHeader">2019</div>
-          <ol>
             <li>
               <div className="OnePaper">
                 <div>Better Exploration with Optimistic Actor Critic</div>
@@ -40,9 +34,48 @@ class Papers extends Component {
 
             <li>
               <div className="OnePaper">
+                <div>{spu[0]}</div>
+                <div>ICLR 2019 <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
+                </div>
+                <div> <strong>Vuong</strong>, Zhang, Ross </div>
+              </div>
+            </li>
+
+          </ol>
+        </div>
+
+        <div className="PaperHeader">Workshops</div>
+
+        <div>
+          <ol>
+            <li>
+              <div className="OnePaper">
                 <div>How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?</div>
-                <div>ICRA Learning Legged Locomotion Workshop. <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
+                <div>ICRA 2019 Learning Legged Locomotion Workshop. <a href="https://arxiv.org/abs/1903.11774">PDF</a> <a href="https://github.com/quanvuong/domain_randomization">Code</a> </div>
                 <div> <strong>Vuong</strong>, Vikram, Su, Gao, Christensen </div>
+              </div>
+            </li>
+
+            <li>
+              <div className="OnePaper">
+                <div>{entropy[0]}</div>
+                <div>ICLR 2018 Workshop. <a href="https://arxiv.org/abs/1806.00589">Full PDF</a> <a href="https://openreview.net/pdf?id=rJc8sN1vG">Short PDF</a></div>
+                <div>Zhang, <strong>Vuong</strong>, Song, Gong, Ross</div>
+              </div>
+            </li>
+
+          </ol>
+        </div>
+
+        <div className="PaperHeader">Preprints</div>
+
+        <div>
+          <ol>
+            <li>
+              <div className="OnePaper">
+                <div>First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning</div>
+                <div>Preprint. <a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
+                <div> Zhang, <strong>Vuong</strong>, Ross </div>
               </div>
             </li>
 
@@ -54,52 +87,9 @@ class Papers extends Component {
               </div>
             </li>
 
-            <li>
-              <div className="OnePaper">
-                <div>Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling</div>
-                <div>ICML 2020 <a href="https://arxiv.org/abs/1910.02208">PDF</a> </div>
-                <div> Wang, Wu, <strong>Vuong</strong>, Ross </div>
-              </div>
-            </li>
-
-          </ol>
-
-
-
-          <div className="YearHeader">2018</div>
-
-          <ol>
-            <li>
-              <div className="OnePaper">
-                <div>{spu[0]}</div>
-                <div>ICLR 2019 <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
-                </div>
-                <div> <strong>Vuong</strong>, Zhang, Ross </div>
-              </div>
-            </li>
-
-            <li>
-              <div className="OnePaper">
-                <div>{entropy[0]}</div>
-                <div>ICLR Workshop. <a href="https://arxiv.org/abs/1806.00589">Full PDF</a> <a href="https://openreview.net/pdf?id=rJc8sN1vG">Short PDF</a></div>
-                <div>Zhang, <strong>Vuong</strong>, Song, Gong, Ross</div>
-              </div>
-            </li>
           </ol>
         </div>
 
-        <div>
-          <div className="YearHeader">2015</div>
-          <ol>
-            <li>
-              <div className="OnePaper">
-                <div>{img_complexity[0]}</div>
-                <div>{img_complexity[2]}. <a href={img_complexity[1]}>PDF</a> </div>
-                <div>Toussaint, Onea, <strong>Vuong</strong> </div>
-              </div>
-            </li>
-          </ol>
-        </div>
       </div>
     );
   }
