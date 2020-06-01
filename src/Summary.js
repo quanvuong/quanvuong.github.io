@@ -9,7 +9,7 @@ class Summary extends Component {
       <div className="Summary">
         <div className="SummaryOneP">Hello! I am Quan Vuong.</div>
 
-        <div className="SummaryOneP">I am a PhD student at the University of California San Diego. My advisor is <a href="http://www.hichristensen.net">Prof. Henrik I. Christensen</a>. I also work closely with <a href="http://cseweb.ucsd.edu/~haosu/">Prof. Hao Su</a>  </div>
+        <div className="SummaryOneP">I am a PhD student at the University of California San Diego. My advisor is <a href="http://www.hichristensen.net">Prof. Henrik I. Christensen</a>. I also work closely with <a href="http://cseweb.ucsd.edu/~haosu/">Prof. Hao Su</a>.  </div>
 
         <div className="SummaryOneP">During my PhD, I did research internships at Microsoft Research (2019), Google Research (2020).</div>
 
