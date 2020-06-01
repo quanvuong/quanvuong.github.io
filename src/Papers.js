@@ -32,7 +32,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>Better Exploration with Optimistic Actor Critic</div>
-                <div>neurIPS. <a href="https://arxiv.org/abs/1910.12807">PDF</a> <a href="https://drive.google.com/open?id=1jx9oQQnRrerUoxy8WxH2fm1WNdZD3L9D">Slide</a> <a href="https://drive.google.com/open?id=1C-76VJ3vnf7O1y1ANgrHLZq__1tzvxWW">Poster</a> <a href="https://github.com/microsoft/oac-explore">Code</a> </div>
+                <div>neurIPS 2019 <a href="https://arxiv.org/abs/1910.12807">PDF</a> <a href="https://drive.google.com/open?id=1jx9oQQnRrerUoxy8WxH2fm1WNdZD3L9D">Slide</a> <a href="https://drive.google.com/open?id=1C-76VJ3vnf7O1y1ANgrHLZq__1tzvxWW">Poster</a> <a href="https://github.com/microsoft/oac-explore">Code</a> </div>
                 <div style={{ color: 'red' }}>Spotlight Presentation (2.4% acceptance rate)</div>
                 <div> Ciosek, <strong>Vuong</strong>, Loftin, Hofmann </div>
               </div>
@@ -57,7 +57,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling</div>
-                <div>Preprint. <a href="https://arxiv.org/abs/1910.02208">PDF</a> </div>
+                <div>ICML 2020 <a href="https://arxiv.org/abs/1910.02208">PDF</a> </div>
                 <div> Wang, Wu, <strong>Vuong</strong>, Ross </div>
               </div>
             </li>
@@ -72,7 +72,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>{spu[0]}</div>
-                <div>ICLR. <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
+                <div>ICLR 2019 <a href={spu[1]}>PDF</a> <a href="https://drive.google.com/file/d/1Yg8x4bSzoj1t6Sk-_N3jTx2eTaVZGoqW/view?usp=sharing">Slide</a> <a href="https://drive.google.com/open?id=1lJeP_3YNlUoMaU-RDENDrkfjPdZQYpA3">Poster</a> <a href="https://github.com/quanvuong/Supervised_Policy_Update">Code</a>
                 </div>
                 <div> <strong>Vuong</strong>, Zhang, Ross </div>
               </div>
