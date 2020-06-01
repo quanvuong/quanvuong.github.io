@@ -18,7 +18,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling</div>
-                <div>ICML 2020 <a href="https://arxiv.org/abs/1910.02208">PDF</a> </div>
+                <div>ICML 2020 <a href="https://arxiv.org/abs/1910.02208">PDF</a> <a href="https://github.com/AutumnWu/Streamlined-Off-Policy-Learning">Code</a> </div>
                 <div> Wang, Wu, <strong>Vuong</strong>, Ross </div>
               </div>
             </li>
