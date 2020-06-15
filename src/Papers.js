@@ -82,16 +82,17 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning</div>
-                <div>Preprint. <a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
+                <div><a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
                 <div> Zhang, <strong>Vuong</strong>, Ross </div>
               </div>
             </li>
 
             <li>
               <div className="OnePaper">
-                <div>Meta reinforcement learning from observational data</div>
-                <div>Preprint. <a href="https://arxiv.org/abs/1909.11373">PDF</a> </div>
-                <div> <strong>Vuong</strong>, Liu, Liu, Ciosek, Su, Christensen </div>
+                <div>Multi-task Batch Reinforcement Learning with Metric Learning</div>
+                <div><a href="https://arxiv.org/abs/1909.11373">PDF</a> </div>
+                <div>Li*, <strong>Vuong</strong>, Liu, Liu, Ciosek, Christensen, Su </div>
+                <div>*: master student advisee and co-first author</div>
               </div>
             </li>
 
