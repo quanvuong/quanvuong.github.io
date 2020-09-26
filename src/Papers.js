@@ -30,7 +30,7 @@ class Papers extends Component {
               <div className="OnePaper">
                 <div>Multi-task Batch Reinforcement Learning with Metric Learning</div>
                 <div>neurIPS 2020 <a href="https://arxiv.org/abs/1909.11373">PDF</a> </div>
-                <div>Li*, <strong>Vuong</strong>, Liu, Liu, Ciosek, Christensen, Su </div>
+                <div>Li*, <strong>Vuong*</strong>, Liu, Liu, Ciosek, Christensen, Su </div>
                 <div>*: Li is my master student advisee and co-first author</div>
               </div>
             </li>
