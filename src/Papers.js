@@ -14,7 +14,27 @@ class Papers extends Component {
         <div className="PaperHeader">Papers</div>
 
         <div>
+
           <ol>
+
+            <li>
+              <div className="OnePaper">
+                <div>First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning</div>
+                <div>neurIPS 2020 <a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
+                <div style={{ color: 'red' }}>Spotlight Presentation (2.9% acceptance rate)</div>
+                <div> Zhang, <strong>Vuong</strong>, Ross </div>
+              </div>
+            </li>
+
+            <li>
+              <div className="OnePaper">
+                <div>Multi-task Batch Reinforcement Learning with Metric Learning</div>
+                <div>neurIPS 2020 <a href="https://arxiv.org/abs/1909.11373">PDF</a> </div>
+                <div>Li*, <strong>Vuong</strong>, Liu, Liu, Ciosek, Christensen, Su </div>
+                <div>*: Li is my master student advisee and co-first author</div>
+              </div>
+            </li>
+
             <li>
               <div className="OnePaper">
                 <div>Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling</div>
@@ -75,29 +95,6 @@ class Papers extends Component {
           </ol>
         </div>
 
-        <div className="PaperHeader">Preprints</div>
-
-        <div>
-          <ol>
-            <li>
-              <div className="OnePaper">
-                <div>First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning</div>
-                <div><a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
-                <div> Zhang, <strong>Vuong</strong>, Ross </div>
-              </div>
-            </li>
-
-            <li>
-              <div className="OnePaper">
-                <div>Multi-task Batch Reinforcement Learning with Metric Learning</div>
-                <div><a href="https://arxiv.org/abs/1909.11373">PDF</a> </div>
-                <div>Li*, <strong>Vuong</strong>, Liu, Liu, Ciosek, Christensen, Su </div>
-                <div>*: master student advisee and co-first author</div>
-              </div>
-            </li>
-
-          </ol>
-        </div>
 
       </div>
     );
@@ -105,3 +102,8 @@ class Papers extends Component {
 }
 
 export default Papers;
+
+// {<div className="PaperHeader">Preprints</div> }
+
+{/* <div>
+</div> */}
