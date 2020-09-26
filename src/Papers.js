@@ -21,7 +21,7 @@ class Papers extends Component {
               <div className="OnePaper">
                 <div>First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning</div>
                 <div>neurIPS 2020 <a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
-                <div style={{ color: 'red' }}>Spotlight Presentation (2.9% acceptance rate)</div>
+                <div style={{ color: 'red' }}>Spotlight (2.9% acceptance rate)</div>
                 <div> Zhang, <strong>Vuong</strong>, Ross </div>
               </div>
             </li>
@@ -47,7 +47,7 @@ class Papers extends Component {
               <div className="OnePaper">
                 <div>Better Exploration with Optimistic Actor Critic</div>
                 <div>neurIPS 2019 <a href="https://arxiv.org/abs/1910.12807">PDF</a> <a href="https://drive.google.com/open?id=1jx9oQQnRrerUoxy8WxH2fm1WNdZD3L9D">Slide</a> <a href="https://drive.google.com/open?id=1C-76VJ3vnf7O1y1ANgrHLZq__1tzvxWW">Poster</a> <a href="https://github.com/microsoft/oac-explore">Code</a> </div>
-                <div style={{ color: 'red' }}>Spotlight Presentation (2.4% acceptance rate)</div>
+                <div style={{ color: 'red' }}>Spotlight (2.4% acceptance rate)</div>
                 <div> Ciosek, <strong>Vuong</strong>, Loftin, Hofmann </div>
               </div>
             </li>
