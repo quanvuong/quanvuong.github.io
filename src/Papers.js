@@ -72,10 +72,19 @@ class Papers extends Component {
           </ol>
         </div>
 
-        <div className="PaperHeader">Workshops</div>
+        <div className="PaperHeader">Workshops & Reports</div>
 
         <div>
           <ol>
+            <li>
+              <div className="OnePaper">
+                <div>Machine Learning for Robotic Manipulation</div>
+                <div>Review paper written for UCSD PhD Research Exam. <a href="https://arxiv.org/abs/2101.00755">PDF</a> </div>
+                <div>Recommended by Research Exam committee as a good sample report for future PhD students to refer to.</div>
+                <div> <strong>Vuong</strong> </div>
+              </div>
+            </li>
+
             <li>
               <div className="OnePaper">
                 <div>How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?</div>
