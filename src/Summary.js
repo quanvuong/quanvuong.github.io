@@ -16,7 +16,7 @@ class Summary extends Component {
 
         <div className="SummaryOneP">
           During my PhD, I did research internships at Microsoft Research (2019),
-          Google Research (2020), Google Brain (expecting Summer 2021).
+          Google Research (2020), Google Brain (2021).
         </div>
 
         <div className="SummaryOneP">
