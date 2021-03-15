@@ -8,7 +8,9 @@ import Papers from './Papers.js';
 import Implementaions from './Implementations.js';
 import Media from './Media.js';
 import Award from './Award.js';
-import funnyPhoto from './6d94c45d2cafa385a8be5f3ea8.jpg';
+import arebirdintelligent from './6d94c45d2cafa385a8be5f3ea8.jpg';
+import adult from './adult.jpg';
+
 
 class App extends Component {
 
@@ -20,11 +22,11 @@ class App extends Component {
         img_cre: "https://www.cryptokitties.co/kitty/250"
       },
       {
-        img_src: funnyPhoto,
+        img_src: arebirdintelligent,
         img_cre: "http://www.jimbenton.com/"
       },
       {
-        img_src: "http://www.jimbenton.com/page5/page27/files/Jim%20Benton%202-2-13.jpg",
+        img_src: adult,
         img_cre: "http://www.jimbenton.com/"
       }
     ]
