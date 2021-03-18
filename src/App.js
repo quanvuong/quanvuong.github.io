@@ -30,6 +30,18 @@ class App extends Component {
       {
         img_src: adult,
         img_cre: "http://www.jimbenton.com/"
+      },
+      {
+        img_src: "https://i.imgur.com/VBa75cL.jpeg",
+        img_cre: "https://www.safelyendangered.com/"
+      },
+      {
+        img_src: "https://i.imgur.com/L3X9YDl.jpeg",
+        img_cre: "https://theoatmeal.com/",
+      },
+      {
+        img_src: "https://i.imgur.com/zBEWILX.png",
+        img_cre: "https://en.wikipedia.org/wiki/Internet"
       }
     ]
 
