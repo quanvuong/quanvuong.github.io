@@ -36,6 +36,12 @@ class Implementations extends Component {
 
           <li>
             <div className="OnePaper">
+              <div><a href="https://docs.google.com/spreadsheets/d/10cJFZrhLXOgEGd7apg1lTNWmkFwn0onrDfhDDIIGClk/edit?usp=sharing">MR practice exercises</a></div>
+            </div>
+          </li>
+
+          <li>
+            <div className="OnePaper">
               <div>Reviewer services: IROS (2021), neurips (2020), ICML (2020, 2021), ICRA (2020, 2021), IEEE-RAM (2019) </div>
             </div>
           </li>
