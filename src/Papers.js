@@ -20,7 +20,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning</div>
-                <div>neurIPS 2020 <a href="https://arxiv.org/abs/2002.06506">PDF</a> </div>
+                <div>neurIPS 2020 <a href="https://arxiv.org/abs/2002.06506">PDF</a> <a href="https://github.com/ymzhang01/focops">Code</a> </div>
                 <div style={{ color: 'red' }}>Spotlight (2.9% acceptance rate)</div>
                 <div> Zhang, <strong>Vuong</strong>, Ross </div>
               </div>
