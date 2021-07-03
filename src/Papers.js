@@ -11,6 +11,23 @@ class Papers extends Component {
 
     return (
       <div className="Papers">
+
+        <div className="PaperHeader">Preprints</div>
+
+        <div>
+          <ol>
+            <li>
+              <div className="OnePaper">
+                <div>Single RGB-D Camera Teleoperation for General Robotic Manipulation</div>
+                <div><a href="https://arxiv.org/abs/2106.14396">PDF</a> </div>
+                <div> <strong>Vuong</strong>, Qin, Guo, Wang, Su, Christensen </div>
+              </div>
+            </li>
+
+          </ol>
+        </div>
+
+
         <div className="PaperHeader">Papers</div>
 
         <div>
