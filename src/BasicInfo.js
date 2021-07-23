@@ -9,7 +9,7 @@ class BasicInfo extends Component {
         <div><a href="mailto:quan.hovuong@gmail.com">quan.hovuong@gmail.com</a></div><br />
         <div>Third-year PhD Student, UC San Diego </div><br />
         <div>Fields: Deep Reinforcement Learning, Computer Vision, Robotics</div><br />
-        <div><a href="https://drive.google.com/file/d/1DpEitRs4Vk8bhtCneUNOYMxa2f2Bai-m/view?usp=sharing">Curriculum Vitae</a></div><br />
+        <div><a href="https://drive.google.com/file/d/1EmzaWGXBgj5lddrYppMWpwIeOgj7DeyC/view?usp=sharing">Curriculum Vitae</a></div><br />
       </div>
     );
   }
