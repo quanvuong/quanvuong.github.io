@@ -19,7 +19,7 @@ class Papers extends Component {
             <li>
               <div className="OnePaper">
                 <div>Single RGB-D Camera Teleoperation for General Robotic Manipulation</div>
-                <div><a href="https://arxiv.org/abs/2106.14396">PDF</a> </div>
+                <div><a href="https://arxiv.org/abs/2106.14396">PDF</a> <a href="https://sites.google.com/view/manipulation-teleop-with-rgbd/home"><span style={{ color: 'red' }}>Real Robot Demo</span></a> </div>
                 <div> <strong>Vuong</strong>, Qin, Guo, Wang, Su, Christensen </div>
               </div>
             </li>
