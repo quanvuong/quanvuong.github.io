@@ -11,12 +11,12 @@ class Summary extends Component {
         <div className="SummaryOneP">Hello! I am Quan Vuong.</div>
 
         <div className="SummaryOneP">I am a PhD student at the
-        University of California San Diego.
+          University of California San Diego.
         </div>
 
         <div className="SummaryOneP">
           During my PhD, I did research internships at Microsoft Research (2019),
-          Google Research (2020), Google Brain (2021).
+          Google Research (2020), Robotics team at Google Brain (2021).
         </div>
 
         <div className="SummaryOneP">
